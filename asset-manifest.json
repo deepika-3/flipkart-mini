@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flipkart-mini/static/css/main.e2c532d8.css",
+    "main.js": "/flipkart-mini/static/js/main.73f58ea7.js",
+    "index.html": "/flipkart-mini/index.html",
+    "main.e2c532d8.css.map": "/flipkart-mini/static/css/main.e2c532d8.css.map",
+    "main.73f58ea7.js.map": "/flipkart-mini/static/js/main.73f58ea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2c532d8.css",
+    "static/js/main.73f58ea7.js"
+  ]
+}
