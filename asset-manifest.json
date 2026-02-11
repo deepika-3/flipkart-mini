@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/flipkart-mini/static/css/main.e2c532d8.css",
-    "main.js": "/flipkart-mini/static/js/main.1830bee9.js",
+    "main.js": "/flipkart-mini/static/js/main.3e19bddf.js",
     "index.html": "/flipkart-mini/index.html",
-    "main.e2c532d8.css.map": "/flipkart-mini/static/css/main.e2c532d8.css.map",
-    "main.1830bee9.js.map": "/flipkart-mini/static/js/main.1830bee9.js.map"
+    "main.3e19bddf.js.map": "/flipkart-mini/static/js/main.3e19bddf.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2c532d8.css",
-    "static/js/main.1830bee9.js"
+    "static/js/main.3e19bddf.js"
   ]
 }
